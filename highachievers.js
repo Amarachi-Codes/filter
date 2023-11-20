@@ -1,5 +1,5 @@
-filter an array of student objects to create a new array (highAchievers) containing only those students who have a grade
- greater than 90
+// filter an array of student objects to create a new array (highAchievers) containing only those students who have a grade
+//  greater than 90
 
  const students = [
     { name: "Alice", grade: 85 },

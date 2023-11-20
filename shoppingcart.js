@@ -30,6 +30,6 @@ console.log("total:", total.toFixed(2));
   // Calculate total amount for payment
   const totalAmount = itemsForPayment.reduce((total, item) => total + item.price, 0);
   
-  // Display total amount
+  // Display total amount in 2 decimal places
   console.log("Total Amount for Payment:", totalAmount.toFixed(2));
 

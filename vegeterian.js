@@ -1,4 +1,4 @@
-create a new array containing only vegetarian toppings by excluding anything that includes "pepperoni". 
+// create a new array containing only vegetarian toppings by excluding anything that includes "pepperoni". 
 
 const pizzaIngredients = ["tomato sauce", "cheese", "pepperoni", "mushrooms", "olives", "onions"];
 

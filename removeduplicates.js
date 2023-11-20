@@ -1,4 +1,4 @@
-Remove duplicates from array 
+// Remove duplicates from array 
 
 const numbers = [1, 2, 3, 3, 4, 5, 5, 6];
  const removeDuplicates = (numbers)=>{
