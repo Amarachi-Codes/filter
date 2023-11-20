@@ -1,5 +1,5 @@
 
-// filter out words with a length less than 6 characters
+filter out words with a length less than 6 characters
 
 const words = ["apple", "banana", "grape", "kiwi", "orange"];
 
